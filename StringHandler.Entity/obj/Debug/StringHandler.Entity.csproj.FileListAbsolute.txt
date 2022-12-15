@@ -1,0 +1,6 @@
+D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.Entity\bin\Debug\StringHandler.Entity.dll
+D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.Entity\bin\Debug\StringHandler.Entity.pdb
+D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.Entity\obj\Debug\StringHandler.Entity.csproj.AssemblyReference.cache
+D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.Entity\obj\Debug\StringHandler.Entity.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.Entity\obj\Debug\StringHandler.Entity.dll
+D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.Entity\obj\Debug\StringHandler.Entity.pdb

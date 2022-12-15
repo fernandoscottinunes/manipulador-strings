@@ -1,0 +1,10 @@
+D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.DAO\bin\Debug\StringHandler.DAO.dll
+D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.DAO\bin\Debug\StringHandler.DAO.pdb
+D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.DAO\bin\Debug\StringHandler.Entity.dll
+D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.DAO\bin\Debug\StringHandler.Entity.pdb
+D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.DAO\obj\Debug\StringHandler.DAO.csproj.AssemblyReference.cache
+D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.DAO\obj\Debug\StringHandler.DAO.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.DAO\obj\Debug\StringHandler.DAO.csproj.CopyComplete
+D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.DAO\obj\Debug\StringHandler.DAO.dll
+D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.DAO\obj\Debug\StringHandler.DAO.pdb
+D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.DAO\bin\Debug\StringHandler.DAO.dll.config
