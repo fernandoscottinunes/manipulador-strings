@@ -1,0 +1,12 @@
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\bin\Release\StringHandler.Model.dll
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\bin\Release\StringHandler.Model.pdb
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\bin\Release\StringHandler.DAO.dll
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\bin\Release\StringHandler.Entity.dll
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\bin\Release\StringHandler.DAO.pdb
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\bin\Release\StringHandler.DAO.dll.config
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\bin\Release\StringHandler.Entity.pdb
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\obj\Release\StringHandler.Model.csproj.AssemblyReference.cache
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\obj\Release\StringHandler.Model.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\obj\Release\StringHandler.Model.csproj.CopyComplete
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\obj\Release\StringHandler.Model.dll
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\obj\Release\StringHandler.Model.pdb

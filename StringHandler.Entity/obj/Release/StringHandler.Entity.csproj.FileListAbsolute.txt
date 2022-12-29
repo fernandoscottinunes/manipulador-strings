@@ -1,0 +1,6 @@
+D:\Desenvolvimento\manipulador-strings\StringHandler.Entity\bin\Release\StringHandler.Entity.dll
+D:\Desenvolvimento\manipulador-strings\StringHandler.Entity\bin\Release\StringHandler.Entity.pdb
+D:\Desenvolvimento\manipulador-strings\StringHandler.Entity\obj\Release\StringHandler.Entity.csproj.AssemblyReference.cache
+D:\Desenvolvimento\manipulador-strings\StringHandler.Entity\obj\Release\StringHandler.Entity.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\manipulador-strings\StringHandler.Entity\obj\Release\StringHandler.Entity.dll
+D:\Desenvolvimento\manipulador-strings\StringHandler.Entity\obj\Release\StringHandler.Entity.pdb

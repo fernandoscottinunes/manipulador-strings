@@ -10,3 +10,15 @@ D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.Model\obj\Debug\Stri
 D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.Model\obj\Debug\StringHandler.Model.dll
 D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.Model\obj\Debug\StringHandler.Model.pdb
 D:\Desenvolvimento\estudos-mvc\string-handler\StringHandler.Model\bin\Debug\StringHandler.DAO.dll.config
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\bin\Debug\StringHandler.Model.dll
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\bin\Debug\StringHandler.Model.pdb
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\bin\Debug\StringHandler.DAO.dll
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\bin\Debug\StringHandler.Entity.dll
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\bin\Debug\StringHandler.DAO.pdb
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\bin\Debug\StringHandler.DAO.dll.config
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\bin\Debug\StringHandler.Entity.pdb
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\obj\Debug\StringHandler.Model.csproj.AssemblyReference.cache
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\obj\Debug\StringHandler.Model.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\obj\Debug\StringHandler.Model.csproj.CopyComplete
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\obj\Debug\StringHandler.Model.dll
+D:\Desenvolvimento\manipulador-strings\StringHandler.Model\obj\Debug\StringHandler.Model.pdb
